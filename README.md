@@ -5,7 +5,9 @@ Choose what life you want to live, every choice you make will change the way tha
 
 
 LC3 Simulator used was LC-3 Tools download @ https://github.com/chiragsakhuja/lc3tools/releases/tag/v2.0.2
-Simple LC-3 
+
+<img width="732" alt="image" src="https://github.com/user-attachments/assets/b90c1406-af06-4704-9737-1244c7983cee" />
+
 
 Positive.
 
