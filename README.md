@@ -1,6 +1,7 @@
 # Game of life quiz
 LC3 Choose your own adventure game.
 Play by using Capital H to help or P to pass by the problem of the current prompt changing the ending based off your choices.
+Choose what life you want to live, every choice you make will change the way that your outcome will end.
 
 
 LC3 Simulator used was LC-3 Tools download @ https://github.com/chiragsakhuja/lc3tools/releases/tag/v2.0.2
