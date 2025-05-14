@@ -70,7 +70,7 @@ prompt6        .STRINGZ "Enter your choice: "
 ; scenario 7 
 scenario7      .STRINGZ "\nYou witness a bank being robbed (H) or stay silent (P)?\n"
 prompt7        .STRINGZ "Enter your choice: "
-        LEA R0, scenario6     ; note: still loads scenario6
+        LEA R0, scenario7     ; note: still loads scenario6
         PUTS
         LEA R0, prompt7
         PUTS
